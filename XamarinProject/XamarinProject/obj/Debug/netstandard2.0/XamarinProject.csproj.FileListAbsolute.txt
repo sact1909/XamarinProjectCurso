@@ -1,0 +1,17 @@
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\bin\Debug\netstandard2.0\XamarinProject.deps.json
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\bin\Debug\netstandard2.0\XamarinProject.dll
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\bin\Debug\netstandard2.0\ref\XamarinProject.dll
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\bin\Debug\netstandard2.0\XamarinProject.pdb
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\XamarinProject.csprojAssemblyReference.cache
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\XamarinProject.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\XamarinProject.AssemblyInfo.cs
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\XamarinProject.dll
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\ref\XamarinProject.dll
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\XamarinProject.pdb
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\MainShell.xaml.g.cs
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\Views\InitPage.xaml.g.cs
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\Views\SecondPage.xaml.g.cs
+C:\Users\steve\source\repos\XamarinProject\XamarinProject\XamarinProject\obj\Debug\netstandard2.0\Views\LastPage.xaml.g.cs
